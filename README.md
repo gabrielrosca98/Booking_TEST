@@ -1,5 +1,5 @@
 # Booking_Test
-Booking test submission. Used IntelliJ IDEA 2019.2.4 (Ultimate Edition) for this project. 
+Booking test submission. Used IntelliJ IDEA 2019.2.4 (Ultimate Edition) for this project. Used GSON to read the response into a Java object. 
 # Part 1
 ## Run this command together with the program arguments:
 `/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/bin/java "-javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=51101:/Applications/IntelliJ IDEA.app/Contents/bin" -Dfile.encoding=UTF-8 @/private/var/folders/1z/qryb9njn3nj6frsbttkk6vgw0000gn/T/idea_arg_file398373038 Booking.Main`
