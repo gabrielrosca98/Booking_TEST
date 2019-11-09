@@ -134,7 +134,6 @@ class Main {
             BufferedReader in = new BufferedReader(new InputStreamReader(conection.getInputStream()));
             while ((readLine = in.readLine()) != null)
             {
-                System.out.println(readLine);
                 responseLine.append(readLine);
             }
             in .close();
